@@ -1,0 +1,85 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+▼
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "4GyQWl6L6GsGEe/3c1umo78/e6YRKfcL4gjYYYTc2FE="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "fGcLSMfgLHHjlCggStQYznOrYnnKq19JuipX4Qg7XF4="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "0Lw25zyrRrgk8Do3azQeFGqJNfaacjR4s4Vd+jbfiHY="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "opbqLj2L+WkItIArZSlCi2oM1Ice9EVpg3GXSPsgzjI="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "wO+NAfuuEE0lGOLerE0c3VIbhNFl4m0+Kk5z2TgcE1M="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "BaVMRRHSWMOFr5NG9vz+l4RJ3VTu3R4fq0nZZ9vgfTQ="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+Files
+
